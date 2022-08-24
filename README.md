@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ali Raza</h1>
-<h3 align="center">A passionate full stack developer and student.</h3>
+<h3 align="center">A passionate full stack developer and deep learning enthusiast.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ar-labs-cpp&label=Profile%20views&color=0e75b6&style=flat" alt="ar-labs-cpp" /> </p>
+
+- 📫 How to reach me **aliraza.abro.hyd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
