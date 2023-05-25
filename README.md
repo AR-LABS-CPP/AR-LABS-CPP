@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **aliraza.abro.hyd@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: [Ali Raza](https://www.linkedin.com/in/ali-raza-995229220)</h3>
 <p align="left">
 </p>
 
